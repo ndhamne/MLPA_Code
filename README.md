@@ -17,3 +17,24 @@ models.ipynb :
 (3) Logistic Regression model
 
 (4) Random Forest model
+
+
+Folder structure: 
+
+- ProcessedData
+
+|
+
+| -- Normal
+
+|
+
+| -- Innerrace
+
+|
+
+| -- Outerrace
+
+|
+
+| -- stats
