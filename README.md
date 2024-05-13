@@ -21,14 +21,10 @@ models.ipynb :
 
 
 
-Folder structure: 
+## Folder Structure
 
-- ProcessedData
-|
-| -- Normal
-|
-| -- Innerrace
-|
-| -- Outerrace
-|
-| -- stats
+- **ProcessedData**: Contains processed data for various categories.
+  - **Normal**: Data related to normal category.
+  - **Innerrace**: Data related to innerrace category.
+  - **Outerrace**: Data related to outerrace category.
+  - **stats**: Statistical data and analysis results.
